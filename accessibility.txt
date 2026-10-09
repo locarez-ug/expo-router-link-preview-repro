@@ -1,0 +1,11 @@
+Page: com.locarez.linkpreviewrepro
+App: com.locarez.linkpreviewrepro
+Snapshot: 7 nodes
+Simulator AX snapshot unavailable (circuit-disabled); used XCTest for this app generation.
+@e1 [application] "Link Preview Reproduction"
+@e2 [other] "Toolbar"
+@e3 [other] "Link Preview accessibility"
+@e4 [navigation-bar] "Link Preview accessibility"
+@e5 [link] "Plain link"
+@e6 [button] "Wrapped preview link"
+@e7 [toolbar] "Toolbar"

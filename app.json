@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Link Preview Reproduction",
+    "slug": "link-preview-repro",
+    "scheme": "linkpreviewrepro",
+    "ios": {
+      "bundleIdentifier": "com.locarez.linkpreviewrepro"
+    },
+    "plugins": [
+      "expo-router",
+      "./plugins/with-scene-life-cycle"
+    ]
+  }
+}
